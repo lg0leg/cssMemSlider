@@ -1,0 +1,16 @@
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+.wrap {
+  margin: 0 auto;
+  width: 1000px;
+  height: 700px;
+  background-color: aquamarine;
+}
